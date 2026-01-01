@@ -85,8 +85,9 @@ Created multiple visuals to analyze insurance data:
 ---
 
 ## 📷 Dashboard Preview
-(Add screenshots of your dashboard here)
+<img width="959" height="541" alt="image" src="https://github.com/user-attachments/assets/be018e18-23b7-400a-9244-d860f107326a" />
+
 
 ---
 
-## 📁 Repository Structure
+
